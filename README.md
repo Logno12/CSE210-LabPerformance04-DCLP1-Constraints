@@ -130,7 +130,9 @@ are included in the submitted PDF file.
 
 Example:
 
-https://github.com/yourusername/DCLP1-Constraints
+https://github.com/Logno12/CSE210-LabPerformance04-DCLP1-Constraints 
+
+
 ▶️ How to Run the Project
 
 Open MySQL Workbench
